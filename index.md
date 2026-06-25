@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
 ---
-Blog info text
+This is a blog
